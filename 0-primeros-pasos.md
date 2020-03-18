@@ -1,4 +1,4 @@
-# Primeros pasos
+# Primeros Pasos
 
 En este capítulo vamos a crear nuestra primera aplicación de [Ruby on Rails](http://rubyonrails.org/), la misma aplicación con la que trabajaremos durante todo el libro.
 
